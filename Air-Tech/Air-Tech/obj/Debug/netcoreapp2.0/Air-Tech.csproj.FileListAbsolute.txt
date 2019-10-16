@@ -1,0 +1,12 @@
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\bin\Debug\netcoreapp2.0\Air-Tech.deps.json
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\bin\Debug\netcoreapp2.0\Air-Tech.runtimeconfig.json
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\bin\Debug\netcoreapp2.0\Air-Tech.runtimeconfig.dev.json
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\bin\Debug\netcoreapp2.0\Air-Tech.dll
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\bin\Debug\netcoreapp2.0\Air-Tech.pdb
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\obj\Debug\netcoreapp2.0\Air-Tech.csproj.CoreCompileInputs.cache
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\obj\Debug\netcoreapp2.0\Air-Tech.AssemblyInfoInputs.cache
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\obj\Debug\netcoreapp2.0\Air-Tech.AssemblyInfo.cs
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\obj\Debug\netcoreapp2.0\Air-Tech.dll
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\obj\Debug\netcoreapp2.0\Air-Tech.pdb
+c:\users\olgar\source\repos\Air-Tech\Air-Tech\obj\Debug\netcoreapp2.0\Air-Tech.csprojAssemblyReference.cache
+c:\Users\olgar\source\repos\Air-Tech\Air-Tech\bin\Debug\netcoreapp2.0\coding-assigment-orders.json
